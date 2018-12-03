@@ -6,3 +6,4 @@
 - Rodrigo Pereira
 - Diego Gomes
 - Claudio Viana
+- Adir Vinícius
